@@ -1,5 +1,4 @@
-
-👋 Olá, sou o Moab Sousa, **Desenvolvedor Full Stack especializado em JavaScript!**  
+👋 Olá, sou o Moab Sousa, **Desenvolvedor Full Stack especializado em JavaScript!**
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**, focado em **transformar ideias em soluções digitais escaláveis** usando as melhores práticas.
 
@@ -12,7 +11,7 @@
 💡 Sou movido por desafios e estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e gerar valor no meu trabalho.
 
 
-## 🛠 Habilidades Técnicas 
+## 🛠 Habilidades Técnicas
 
 **Linguagens de Programação:**
 
@@ -20,7 +19,7 @@
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
-**Frameworks & Bibliotecas (Frontend):**  
+**Frameworks & Bibliotecas (Frontend):**
 
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
@@ -35,7 +34,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
- **Bibliotecas (Dados & Análise):**
+**Bibliotecas (Dados & Análise):**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -66,28 +65,22 @@
 ![Kanban](https://img.shields.io/badge/Kanban-0099CC?style=for-the-badge&logo=trello&logoColor=white)
 
 
-
-##  📊 Minha Atividade 
-
+## 📊 Minha Atividade
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=moabsousa&show_icons=true&theme=gotham)
 
 
-
 ## 🌍 Idiomas
 
-| Idioma | Proficiência | 
-| :--- | :--- | 
-| **Português** | Nativo. |
-| **Inglês** | Leitura Avançada. |   
+| Idioma | Proficiência |
+| :--- | :--- |
+| **Português** | Nativo |
+| **Inglês** | Leitura Avançada |
 
 ## 🚀 Projetos Destacados
 
-[....]
+- **Alternador de Tema (Dark Mode e Cores)** | [![Repositório](https://img.shields.io/badge/Repositorio-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoabSousa/mode-dark-light) [![Demo](https://img.shields.io/badge/Demo-E0234E?style=for-the-badge&logo=vercel&logoColor=white)](https://moabsousa.github.io/mode-dark-light/)
 
-[...]
-
-[...]
 
 ## 📚 Em Desenvolvimento Contínuo
 
@@ -99,4 +92,3 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moabsousa/)
 [![PORTFOLIO](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=about.me&logoColor=white)](https://moabsousa.com.br)
 [![EMAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sousamoab@gmail.com)
-
